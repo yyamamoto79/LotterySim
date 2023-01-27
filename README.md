@@ -1,3 +1,4 @@
 # LotterySim
 ジャンボ宝くじシミュレーター
-Japanese jump lottery simulator
+
+Japanese jumbo lottery simulator
